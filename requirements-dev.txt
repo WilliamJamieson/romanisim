@@ -10,5 +10,5 @@ numpy>=0.0.dev0
 scipy>=0.0.dev0
 
 # Roman upstream packages
-git+https://github.com/spacetelescope/roman_datamodels
+git+https://github.com/WilliamJamieson/roman_datamodels.git@bugfix/default_modification
 git+https://github.com/spacetelescope/rad
